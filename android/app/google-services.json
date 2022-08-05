@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111726425626",
+    "project_id": "restaurantreservation-d6459",
+    "storage_bucket": "restaurantreservation-d6459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111726425626:android:f4b3245b4f751096b343a3",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111726425626-p226fl0uphkeortrlc5mtqsro4qod04f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRivzAIO-B5HCFDFs863mBYhSektpYZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111726425626-p226fl0uphkeortrlc5mtqsro4qod04f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
